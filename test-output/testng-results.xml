@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="13323" started-at="2018-12-04T03:45:35Z" finished-at="2018-12-04T03:45:48Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="13323" started-at="2018-12-04T03:45:35Z" finished-at="2018-12-04T03:45:48Z">
+      <class name="com.MyFirstProject.AppTest">
+        <test-method status="PASS" signature="main()[pri:0, instance:com.MyFirstProject.AppTest@26be92ad]" name="main" is-config="true" duration-ms="12600" started-at="2018-12-04T03:45:35Z" finished-at="2018-12-04T03:45:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- main -->
+        <test-method status="PASS" signature="Validating()[pri:0, instance:com.MyFirstProject.AppTest@26be92ad]" name="Validating" duration-ms="19" started-at="2018-12-04T03:45:48Z" finished-at="2018-12-04T03:45:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Validating -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:com.MyFirstProject.AppTest@26be92ad]" name="teardown" is-config="true" duration-ms="622" started-at="2018-12-04T03:45:48Z" finished-at="2018-12-04T03:45:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.MyFirstProject.AppTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
